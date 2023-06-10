@@ -42,14 +42,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/NikBel3476/bim-json-docs/blob/master',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/NikBel3476/bim-json-docs/blob/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -72,11 +72,11 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
+            sidebarId: 'BuildingJSON',
+            position: 'right',
+            label: 'BuildingJSON',
           },
-          {to: '/blog', label: 'Blog', position: 'left'}
+          {to: '/blog', label: 'Blog', position: 'right'}
         ],
       },
       footer: {
