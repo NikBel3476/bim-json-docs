@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbim_json_docs=self.webpackChunkbim_json_docs||[]).push([[138],{4312:o=>{o.exports=JSON.parse('{"permalink":"/bim-json-docs/en/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

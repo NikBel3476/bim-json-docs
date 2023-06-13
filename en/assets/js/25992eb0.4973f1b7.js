@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbim_json_docs=self.webpackChunkbim_json_docs||[]).push([[41],{8437:s=>{s.exports=JSON.parse('{"label":"\u0442\u0435\u0441\u0442","permalink":"/bim-json-docs/en/blog/tags/\u0442\u0435\u0441\u0442","allTagsPath":"/bim-json-docs/en/blog/tags","count":1}')}}]);
