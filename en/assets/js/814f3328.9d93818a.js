@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbim_json_docs=self.webpackChunkbim_json_docs||[]).push([[535],{5641:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u0422\u0435\u0441\u0442\u043e\u0432\u044b\u0439 \u043f\u043e\u0441\u0442","permalink":"/en/blog/test-blog-post"}]}')}}]);

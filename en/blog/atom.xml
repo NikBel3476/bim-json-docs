@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://NikBel3476.github.io/en/blog</id>
+    <title>bim-json Blog</title>
+    <updated>2023-09-06T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://NikBel3476.github.io/en/blog"/>
+    <subtitle>bim-json Blog</subtitle>
+    <icon>https://NikBel3476.github.io/en/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Тестовый пост]]></title>
+        <id>https://NikBel3476.github.io/en/blog/test-blog-post</id>
+        <link href="https://NikBel3476.github.io/en/blog/test-blog-post"/>
+        <updated>2023-09-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Описание]]></summary>
+        <content type="html"><![CDATA[<p>09.06.2023 была создана эта документация</p>]]></content>
+        <author>
+            <name>Nikita Belkin</name>
+            <uri>https://github.com/NikBel3476</uri>
+        </author>
+        <category label="тест" term="тест"/>
+        <category label="пост" term="пост"/>
+    </entry>
+</feed>

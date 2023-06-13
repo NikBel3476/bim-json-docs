@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbim_json_docs=self.webpackChunkbim_json_docs||[]).push([[107],{1582:s=>{s.exports=JSON.parse('{"label":"\u043f\u043e\u0441\u0442","permalink":"/en/blog/tags/\u043f\u043e\u0441\u0442","allTagsPath":"/en/blog/tags","count":1}')}}]);
