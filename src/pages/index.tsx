@@ -11,10 +11,10 @@ export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`${siteConfig.title}`}
+      description="Сайт документации ПИМ">
       <main>
-        <p>Стартовая страница</p>
+        <h1 className={clsx(styles.title)}>Приветствуем вас на сайте документации bim json</h1>
       </main>
     </Layout>
   );
