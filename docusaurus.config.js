@@ -11,15 +11,17 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://NikBel3476.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: '', // Usually your GitHub org/user name.
+  organizationName: 'NikBel3476', // Usually your GitHub org/user name.
   projectName: 'bim-json-docs', // Usually your repo name.
+  deploymentBranch: 'master',
+  trailingSlash: true,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -72,9 +74,9 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'BuildingJSON',
+            sidebarId: 'BIM structure',
             position: 'right',
-            label: 'BuildingJSON',
+            label: 'Структура ПИМ',
           },
           {to: '/blog', label: 'Blog', position: 'right'}
         ],
@@ -86,6 +88,7 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+        additionalLanguages: ['java']
       },
     }),
 };
