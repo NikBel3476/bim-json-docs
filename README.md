@@ -1,5 +1,7 @@
 # Website
 
+#### Docs available on https://nikbel3476.github.io/bim-json-docs/
+
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
