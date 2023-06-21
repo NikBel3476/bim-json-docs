@@ -74,7 +74,7 @@ const config = {
           {
             type: 'docSidebar',
             sidebarId: 'BIM structure',
-            position: 'right',
+            position: 'left',
             label: 'Структура ПИМ',
           },
           {to: '/blog', label: 'Blog', position: 'right'}
